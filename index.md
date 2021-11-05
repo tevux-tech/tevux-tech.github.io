@@ -1,5 +1,5 @@
 # Tevux Technologies
-We build no-code visual programming environment. It allows to 🎉**enjoy programming**🎉 without learning a programing language, and is also suitable for 🏭**industrial applicaton**🏭.
+We build 😊**no-code**😊 visual programming environment. It allows to 🎉**enjoy programming**🎉 without learning a programing language, and is also suitable for 🏭**industrial applicaton**🏭.
 
 # The Tevukas story
 
