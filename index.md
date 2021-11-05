@@ -1,5 +1,5 @@
 # Tevux Technologies
-We build no-code visual programming environment. It allows to enjoy programming without learning a programing language, and is also suitable for industrial applicaton.
+We build no-code visual programming environment. It allows to 🎉**enjoy programming**🎉 without learning a programing language, and is also suitable for 🏭**industrial applicaton**🏭.
 
 # The Tevukas story
 
@@ -36,7 +36,7 @@ In visual programming, Tevukas does not have to fight the syntax war. He can con
 
 ![image](https://user-images.githubusercontent.com/71982803/140476355-b992dc25-58b5-4f08-bf38-cb9ed179a0fc.png)
 
-_Screenshot is taken from [XOD IDE](www.xod.io), which is a great inspiration for us._
+_Screenshot is taken from [XOD IDE](https://www.xod.io), which is a great inspiration for us._
 
 ## Dashboards
 You can have none, you can have many. Dashboards are aren't mandatory.
